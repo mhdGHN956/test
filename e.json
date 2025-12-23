@@ -1,5 +1,9 @@
 {
-    "connections":[
+    "endpoint": {
+        "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2VzaEdITjk1Ni9tYWluLWVuZC9yZWZzL2hlYWRzL21haW4vZGF0YS50eHQ=",
+        "is_cdn": false
+    },
+    "connections": [
         "aHR0cDovLzkxLjEwNy4xMzAuMjM3L2FwcC8=",
         "aHR0cDovLzkxLjEwNy4xMzAuMjM3L2FwcC8=",
         "aHR0cDovLzkxLjEwNy4xMzAuMjM3L2FwcC8="
